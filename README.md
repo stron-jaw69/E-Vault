@@ -4,4 +4,5 @@
 - **Project Base:** Provide both password-based and hybrid public-key encryption workflows
 - Derive robust encryption keys from passwords using scripts
 - Apply authenticated encryption using Advanced Encryption Standard (AES-256)
-- 
+- Integrate hybrid encryption using RSA-OAEP-SHA256 key wrapping
+
