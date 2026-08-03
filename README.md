@@ -8,8 +8,14 @@
 - Provide reusable cryptographic API and command line interface
 # Features 🖌️
 ### 1. Symmetric Encryption
-- 
+- 256-bit encryption keys
+- Random 96-bit GCM nonces
+- AES-256-GCM authenticated encryption 
 ### 2. Password-Based Encryption
+- Unique secure random salts for password hashing
+- Key derivation using scrypt
+- I
+- 
 ### 3. Hybrid Encryption
 
 
