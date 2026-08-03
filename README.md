@@ -5,5 +5,6 @@
 - Derive robust encryption keys from passwords using scripts
 - Apply authenticated encryption using Advanced Encryption Standard (AES-256)
 - Integrate hybrid encryption using RSA-OAEP-SHA256 key wrapping
-- Offer reusable cryptographic API and command line interface 
+- Provide reusable cryptographic API and command line interface
+# Features 🖌️
 
