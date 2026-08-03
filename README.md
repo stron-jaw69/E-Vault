@@ -7,4 +7,9 @@
 - Integrate hybrid encryption using RSA-OAEP-SHA256 key wrapping
 - Provide reusable cryptographic API and command line interface
 # Features 🖌️
+### 1. Symmetric Encryption
+- 
+### 2. Password-Based Encryption
+### 3. Hybrid Encryption
+
 
