@@ -14,8 +14,8 @@
 ### 2. Password-Based Encryption
 - Unique secure random salts for password hashing
 - Key derivation using scrypt
-- I
-- 
+- Increased resistance to brute-force attacks with configurable scrypt parameters
 ### 3. Hybrid Encryption
+- Support
 
 
