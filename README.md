@@ -16,6 +16,8 @@
 - Key derivation using scrypt
 - Increased resistance to brute-force attacks with configurable scrypt parameters
 ### 3. Hybrid Encryption
-- Support
+- Support 3072-bit and 4096-bit RSA keys
+- Securely wrapping generated AES session keys.
+- 
 
 
