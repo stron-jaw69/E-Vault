@@ -20,5 +20,7 @@
 - Securely wrapping generated AES session keys.
 - RSA-OAEP-SHA256 key encryption
 ### 4. Secure Container Format
+- Authenticated encryption metadata
 - File metadata stored in structured header
+- File format: Custom encrypted .cryp
 
