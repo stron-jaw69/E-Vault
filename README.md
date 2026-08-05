@@ -20,5 +20,5 @@
 - Securely wrapping generated AES session keys.
 - RSA-OAEP-SHA256 key encryption
 ### 4. Secure Container Format
-- File metadata stored in 
+- File metadata stored in structured header
 
