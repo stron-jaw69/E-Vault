@@ -18,6 +18,7 @@
 ### 3. Hybrid Encryption
 - Support 3072-bit and 4096-bit RSA keys
 - Securely wrapping generated AES session keys.
-- RSA-OAEP-SHA
-
+- RSA-OAEP-SHA256 key encryption
+### 4. Secure Container Format
+- File metadata stored in 
 
