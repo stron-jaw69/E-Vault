@@ -23,4 +23,5 @@
 - Authenticated encryption metadata
 - File metadata stored in structured header
 - File format: Custom encrypted .cryp
-
+# Technical Stack ⚙️
+### 1. Programming Language
