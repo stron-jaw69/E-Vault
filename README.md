@@ -18,6 +18,6 @@
 ### 3. Hybrid Encryption
 - Support 3072-bit and 4096-bit RSA keys
 - Securely wrapping generated AES session keys.
-- RSA-OA
+- RSA-OAEP-SHA
 
 
