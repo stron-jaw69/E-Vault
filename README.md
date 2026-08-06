@@ -24,15 +24,16 @@
 - File metadata stored in structured header
 - File format: Custom encrypted .cryp
 # Technical Stack ⚙️
-### 1. Programming Language
-- Python 3.11+
-### 2. Library
-- PyCryptodome
-### 3. Testing Framework
-- pytest
 Control Type | Algorithm
 -------|-------------  
 **Password KDF**| scrypt
 **Encryption**| AES-256-GCM
 **Key Wrapping**| RSA-OAEP
 **Random Number**| 
+### 1. Programming Language
+- Python 3.11+
+### 2. Library
+- PyCryptodome
+### 3. Testing Framework
+- pytest
+
