@@ -29,7 +29,7 @@
 ### 2. Library
 - PyCryptodome
 ### 3. Testing Framework
-
+- pytest
 Control Type | Algorithm
 -------|-------------  
 **Password KDF**| scrypt
