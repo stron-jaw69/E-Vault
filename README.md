@@ -31,4 +31,5 @@
 Control Type | Algorithm
 -------|-------------  
 **Password KDF**| scrypt
-**Encryption**| AES-256
+**Encryption**| AES-256-GCM
+**Key Wrapping**| scrypt
