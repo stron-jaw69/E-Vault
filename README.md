@@ -25,3 +25,4 @@
 - File format: Custom encrypted .cryp
 # Technical Stack ⚙️
 ### 1. Programming Language
+- Python 3.11+
