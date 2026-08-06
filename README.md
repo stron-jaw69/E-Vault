@@ -28,8 +28,11 @@
 - Python 3.11+
 ### 2. Library
 - PyCryptodome
+### 3. Testing Framework
+
 Control Type | Algorithm
 -------|-------------  
 **Password KDF**| scrypt
 **Encryption**| AES-256-GCM
 **Key Wrapping**| RSA-OAEP
+**Random Number**| 
