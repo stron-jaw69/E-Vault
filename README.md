@@ -28,3 +28,7 @@
 - Python 3.11+
 ### 2. Library
 - PyCryptodome
+Control Type | Algorithm
+-------|-------------  
+**Password KDF**| scrypt
+**Encryption**| 
