@@ -29,7 +29,7 @@ Control Type | Algorithm
 **Password KDF**| scrypt
 **Encryption**| AES-256-GCM
 **Key Wrapping**| RSA-OAEP
-**Random Number**| 
+**Random Number**| Secure
 ### 1. Programming Language
 - Python 3.11+
 ### 2. Library
