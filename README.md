@@ -28,7 +28,7 @@ Control Type | Algorithm
 -------|-------------  
 **Password KDF**| scrypt
 **Encryption**| AES-256-GCM
-**Key Wrapping**| RSA-OAEP
+**Key Wrapping**| RSA-OAEP-SHA
 **Number Generation**| Secure RNG (Random Number Generator) 
 ### 1. Programming Language
 - Python 3.11+
