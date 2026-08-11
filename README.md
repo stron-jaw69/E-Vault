@@ -28,7 +28,7 @@ Control Type | Algorithm
 -------|-------------  
 **Password KDF**| scrypt
 **Encryption**| AES-256-GCM
-**Key Wrapping**| RSA-OAEP-SHA
+**Key Wrapping**| RSA-OAEP-SHA25
 **Number Generation**| Secure RNG (Random Number Generator) 
 ### 1. Programming Language
 - Python 3.11+
@@ -36,4 +36,5 @@ Control Type | Algorithm
 - PyCryptodome
 ### 3. Testing Framework
 - pytest
+- 
 # Getting Started 📦
