@@ -37,5 +37,6 @@ Control Type | Algorithm
 ### 3. Testing Framework
 - pytest
 - Password encryption/decryption
-- Invalid password 
+- Invalid password handling
+- Cipher
 # Getting Started 📦
