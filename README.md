@@ -36,5 +36,6 @@ Control Type | Algorithm
 - PyCryptodome
 ### 3. Testing Framework
 - pytest
-- Password encryption/
+- Password encryption/decryption
+- Invalid
 # Getting Started 📦
