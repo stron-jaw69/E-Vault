@@ -38,5 +38,5 @@ Control Type | Algorithm
 - pytest
 - Password encryption/decryption
 - Invalid password handling
-- Cipher
+- Ciphertext
 # Getting Started 📦
