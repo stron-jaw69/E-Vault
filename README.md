@@ -38,5 +38,6 @@ Control Type | Algorithm
 - pytest
 - Password encryption/decryption
 - Invalid password handling
-- Ciphertext tampering dete
+- Ciphertext tampering detection
+- Hybrid
 # Getting Started 📦
