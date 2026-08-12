@@ -40,4 +40,5 @@ Control Type | Algorithm
 - Invalid password handling
 - Ciphertext tampering detection
 - Hybrid encryption/decryption
+- tag
 # Getting Started 📦
