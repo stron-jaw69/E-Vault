@@ -39,5 +39,5 @@ Control Type | Algorithm
 - Password encryption/decryption
 - Invalid password handling
 - Ciphertext tampering detection
-- Hybrid encryp
+- Hybrid encryption
 # Getting Started 📦
