@@ -44,4 +44,6 @@ Control Type | Algorithm
 # Getting Started 📦
 - Python 3.11 or later
 - pip package manager
-- clone the repository 
+- clone the repository
+- create env
+- install dep
