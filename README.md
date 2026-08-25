@@ -43,3 +43,4 @@ Control Type | Algorithm
 - tag
 # Getting Started 📦
 - Python 3.11 or later
+- pip package
