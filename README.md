@@ -42,3 +42,4 @@ Control Type | Algorithm
 - Hybrid encryption/decryption
 - tag
 # Getting Started 📦
+- Python 3.11 or later
