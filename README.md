@@ -46,4 +46,4 @@ Control Type | Algorithm
 - pip package manager
 - clone the repository
 - create env
-- install dependencies: pip 
+- install dependencies: pip ins
