@@ -22,7 +22,7 @@
 ### 4. Secure Container Format
 - Authenticated encryption metadata
 - File metadata stored in structured header
-- File format: Custom encrypted .cryp
+- File format: Custom encrypted **.cryp**
 # Technical Stack ⚙️
 Control Type | Algorithm
 -------|-------------  
