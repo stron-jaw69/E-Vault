@@ -40,7 +40,7 @@ Control Type | Algorithm
 - Invalid password handling
 - Ciphertext tampering detection
 - Hybrid encryption/decryption
-- tag
+- Auth tag
 # Getting Started 📦
 - Python 3.11 or later
 - pip package manager
