@@ -46,5 +46,5 @@ Control Type | Algorithm
 - pip package manager
 - clone the repository
 - create environment:
-  ### 1. Windows
+  ## 1. Windows
 - install dependencies: pip install -r requirements.txt
