@@ -45,6 +45,5 @@ Control Type | Algorithm
 - Python 3.11 or later
 - pip package manager
 - clone the repository
-- create environment:
-  ## 1. Windows
+- create environment: python
 - install dependencies: pip install -r requirements.txt
