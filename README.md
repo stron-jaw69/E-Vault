@@ -47,4 +47,4 @@ Control Type | Algorithm
 - clone the repository
 - create environment: python
 - install dependencies: pip install -r requirements.txt
-# Futu
+# Future 
