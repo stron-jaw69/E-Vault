@@ -48,4 +48,4 @@ Control Type | Algorithm
 - create environment: python
 - install dependencies: pip install -r requirements.txt
 # Future Improvements
-- Dig
+- Digital S
