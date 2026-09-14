@@ -45,7 +45,7 @@ Control Type | Algorithm
 - Python 3.11 or later
 - pip package manager
 - clone the repository
-- create environment: python
+- create environment: python -m
 - install dependencies: pip install -r requirements.txt
 # Future Improvements
-- Digital Signat
+- Digital Signatures
