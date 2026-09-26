@@ -50,4 +50,4 @@ Control Type | Algorithm
 # Future Improvements
 - Digital Signatures
 - Streaming encryption for large files
-- Dock
+- Arg
