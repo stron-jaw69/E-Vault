@@ -49,4 +49,5 @@ Control Type | Algorithm
 - install dependencies: pip install -r requirements.txt
 # Future Improvements
 - Digital Signatures
-- Streaming encryption for large files 
+- Streaming encryption for large files
+- Dock
