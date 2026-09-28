@@ -51,4 +51,4 @@ Control Type | Algorithm
 - Digital Signatures
 - Streaming encryption for large files
 - Argon2id support
-- Do
+- Multi-user hybrid encryption 
