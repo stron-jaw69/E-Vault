@@ -50,4 +50,5 @@ Control Type | Algorithm
 # Future Improvements
 - Digital Signatures
 - Streaming encryption for large files
-- Argon2id suppor
+- Argon2id support
+- Do
