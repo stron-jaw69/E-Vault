@@ -45,7 +45,7 @@ Control Type | Algorithm
 - Python 3.11 or later
 - pip package manager
 - clone the repository
-- create environment: python -m venv
+- create environment: python -m venv .venv >> .ven
 - install dependencies: pip install -r requirements.txt
 # Future Improvements
 - Digital Signatures
